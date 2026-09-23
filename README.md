@@ -324,7 +324,7 @@ Backend ve simülatörün kurulum bilgileri backend repository'sindeki dokümant
 
 ## Teslim notu
 
-Firma ilk kurulumda kendi backend adresini `.env` dosyasına tanımlamalı ve gerekiyorsa kendi Expo/EAS hesabıyla projeyi ilişkilendirmelidir. Kaynak kod belirli bir geliştirici Expo hesabına veya EAS proje kimliğine bağlı değildir.
+İlk kurulumda kendi backend adresini `.env` dosyasına tanımlamalısınız ve gerekiyorsa kendi Expo/EAS hesabıyla projeyi ilişkilendirmelisiniz. Kaynak kod belirli bir geliştirici Expo hesabına veya EAS proje kimliğine bağlı değildir.
 
 ## Lisans
 
